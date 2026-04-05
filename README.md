@@ -18,6 +18,9 @@ A personal business analysis and product strategy project on **JAR**, an Indian 
 
 `JAR-fintech-analysis.pdf` — full report
 
+## Tools Used
+Excel · SQL · Tableau
+
 ## About
 
 **Suzane J**
