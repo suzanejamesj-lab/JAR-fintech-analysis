@@ -1,27 +1,38 @@
-# JAR Fintech Analysis
+# JAR Fintech — Sales Analysis & Product Strategy
+### Independent business analysis on JAR, India's micro-savings app
 
-A personal business analysis and product strategy project on **JAR**, an Indian fintech app focused on micro-savings and digital gold investment.
+## Why JAR?
+JAR has 10M+ users saving spare change into digital gold.
+But is the business profitable across all categories and regions?
+And where should the product go next?
+I analysed the data and built a strategy.
 
-## What's Inside
+## What I Did
 
-- **Sales Analysis** — category-wise profitability, target achievement trends, and regional performance insights
-- **App Exploration** — strengths and areas for improvement based on hands-on app usage
-- **Product Strategy** — growth opportunities including micro SIPs, cashback vaults, and a financial health score
+**Sales Analysis**
+- Analysed profitability across 3 categories and 5 regions
+- Identified top and underperforming segments with recommendations
+- Tracked month-on-month target achievement trends
+
+**App Exploration**
+- Used the JAR app hands-on and audited UX end to end
+- Identified 5 strengths and 5 improvement areas
+
+**Product Strategy**
+- Proposed 4 growth features: Micro SIPs, Emergency Jars,
+  UPI Cashback Vaults, and a Financial Health Score
+- Each recommendation mapped to JAR's existing strengths
 
 ## Key Findings
+- Clothing: highest profit margin at 8%, strongest volume
+- Electronics: highest profit per order at Rs.34.07
+- Furniture: lowest margin at 2%, needs logistics fix
+- Delhi: premium buyer market, highest avg profit per order
+- Gujarat and Rajasthan: high orders, low profit, needs upsell strategy
 
-- Clothing is the top-performing category with an 8% profit margin and highest order volume
-- Delhi has the highest average profit per order — a strong market for premium campaigns
-- Jar's biggest growth opportunity lies in expanding beyond digital gold while keeping its beginner-friendly UX
+## Tools
+Excel, Tableau, SQL
 
-## File
-
-`JAR-fintech-analysis.pdf` — full report
-
-## Tools Used
-Excel · SQL · Tableau
-
-## About
-
+## Author
 **Suzane J**
-[LinkedIn](https://www.linkedin.com/in/suzanejames) · suzanejjames@gmail.com
+[LinkedIn](linkedin.com/in/suzanejames) · suzanejjames@gmail.com
